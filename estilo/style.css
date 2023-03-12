@@ -133,7 +133,7 @@ main strong {
     margin: auto;
 }
 .margem {
-    min-width: 250px;
+    max-width: 250px;
     display: block;
     margin: auto;
     text-align: center;
