@@ -133,10 +133,9 @@ main strong {
     margin: auto;
 }
 .margem {
-    max-width: 350px;
+    max-width: min-content;
     display: block;
     margin: auto;
-    text-align: center;
 
 }
 .video {
