@@ -133,6 +133,7 @@ main strong {
     margin: auto;
 }
 .margem {
+    min-width: 350px;
     display: block;
     margin: auto;
 }
