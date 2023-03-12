@@ -132,7 +132,10 @@ main strong {
     display: block;
     margin: auto;
 }
-
+.margem {
+    display: block;
+    margin: auto;
+}
 .video {
     background-color: var(--cor6);
     margin: 0px -25px 23px -25px;
